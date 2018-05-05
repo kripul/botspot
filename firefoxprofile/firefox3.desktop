@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=firefox3
+Exec=firefox -CreateProfile 3
+Name=firefox1
+Icon=gnome-panel-launcher
